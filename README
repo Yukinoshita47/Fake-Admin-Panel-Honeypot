@@ -1,0 +1,68 @@
+[INDONESIA]
+
+=================================================================
+ 
+Fake Admin Panel Honeypot v.1.0.0
+
+Created by Yukinoshita47 of Bitosi Hacking Lab
+
+Team : Garuda Security Hacker
+
+=================================================================
+
+
+Fake Admin Panel Honeypot adalah Jebakan buat para hacker yang ingin meretas situs anda cocok buat para Administrator website yang ingin mengamankan website nya :
+
+Cara kerja nya nya:
+1. Hacker akan mencoba login ke situs anda dengan metode default password ataupun bypass admin injection
+
+2. IP Address Hacker akan terdeteksi dan tercatat di log.txt ( situsanda/path dari FAPH/log.txt ) contoh situsanda/admin/log.txt
+
+3. Hacker akan terkena serangan balik dengan 5000 pop-up download yang dapat membuat browser nya error dan bahkan bisa rusak.
+
+4. sebaiknya anda uji coba terlebih dahulu di localhost dengan XAMPP atau lainnya
+
+Untuk Pengguna Custom Website dan CMS lainnya.
+
+Sebaiknya anda ganti login admin default nya terlebih dahulu atau gunakan plugin CMS yang dapat merubah lokasi login adminnya
+
+setelah itu baru anda buat di direktori baru dengan nama admin di public_html atau direktori webserver lainnya kemudian masukkan data-data aplikasi Fake Admin Panel Honeypot.
+
+dan bersenang-senanglah dengan hacker yang terjebak dengan aplikasi ini hahahahaha
+
+
+
+[ ENGLISH ]
+
+=================================================================
+ 
+Fake Admin Honeypot Panel v.1.0.0
+
+Created by Yukinoshita47 of Bitosi Hacking Lab
+
+Team: Garuda Security Hacker
+
+=================================================================
+
+
+Fake Admin Honeypot Panel are traps for hackers who want to hack your site is suitable for the web site administrator who wants to secure his website:
+
+Ways of working :
+
+1. Hackers will try to login to your site by using the default admin password or bypass injection
+
+2. IP Address Hacker will be detected and recorded in log.txt (yoursite / path of FAPH / log.txt) example yoursite / admin / log.txt
+
+3. Hackers will attack behind with 5000 pop-up download that can make its browser error and can even be damaged.
+
+4. you should test it first on localhost with XAMPP or other
+
+To Users Custom CMS Website and more.
+
+We recommend that you change the default admin login it first or use a CMS plugin that can change the location of the admin login
+
+after that you just created a new directory with the name admin in public_html or other webserver directory and then enter the data application Honeypot Fake Admin Panel.
+
+and have fun with hackers who are stuck with this application hahahahaha
+
+
